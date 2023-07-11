@@ -1,0 +1,64 @@
+#reg, #login {
+    width: 500px;
+    border: 1px solid #000000; padding: 10px 10px 10px 10px; border-radius: 30px;
+    font-family: Arial, Helvetica, sans-serif;text-align: left; line-height: 18px; color: #104152; font-size: 15px; font-style: italic;
+    background-image: linear-gradient(rgb(174, 198, 218), rgb(179, 195, 230));; margin: 100px auto;opacity: 0.8;
+    }
+    .letter
+    {
+        text-align: center;
+    }
+
+    form label, form input { display: block;
+    margin-bottom: 10px; width: 90%
+    }
+    form input { padding: 5px;
+     margin-left: 10px;
+     border-radius: 10px;
+     border: solid 1px #111213;
+    }
+    .click {
+    background-color: #104152; border-color: #f4faf6; font-weight:bold; padding: 12px 15px;
+    color: #ffffff;
+    }
+    .errorMsg { color: #cc0000;
+    margin-bottom: 0px;
+    }
+    .sucessMsg { color: #6B8E23;
+    margin-bottom: 10px;
+    }
+    /* .Login-component {
+          background: url("C:\Users\sathy\Pictures\help.jpg"); 
+         /* height: 2050px; */ 
+          /* background: linear-gradient(to bottom right, #afd3de 0%, #124754 100%);  */
+         /* background-repeacd t:no-repeat; */
+         /* background-size: cover; */
+    /* } */
+    select, option {
+        width: 440px;
+        padding: 5px;
+    margin-left: 10px;
+    border-radius: 10px;
+    }
+    
+    option {
+        overflow: hidden;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+    }
+    .button{
+        align-self: center;
+        background-color: #0a2b36;
+        
+    }
+    /* body{
+        background-image:url("https://res.cloudinary.com/dunzdwo0h/image/upload/v1688951376/help_jborpt.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+    } */
+    .op
+    {
+        background-image:url("https://res.cloudinary.com/dunzdwo0h/image/upload/v1688951376/help_jborpt.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+    }

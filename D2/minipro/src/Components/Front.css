@@ -1,0 +1,28 @@
+.bg
+{
+    background-image: url("https://res.cloudinary.com/dunzdwo0h/image/upload/v1688969458/a6_cljccw.gif");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 900px;
+    display: flex;
+}
+.button
+{
+    border-radius: 10px;
+    margin-left: 50%;
+    margin-top: 50%;
+}
+
+a{
+    text-decoration: none !important;
+    
+}
+.btn-btn1{
+padding: 1rem;
+margin: 1rem;
+background-color: #fff;
+color: #000;
+border: none;
+border-radius: 4px;
+}
