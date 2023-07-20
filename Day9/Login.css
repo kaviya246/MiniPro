@@ -1,0 +1,77 @@
+.login-container21 {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f2f2f2;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .login-container21 h2 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .form-group2 {
+    margin-bottom: 20px;
+  }
+  
+  .form-group2 label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  /* input[type='email'],
+  input[type='password'] {
+    width: 90%;
+    padding: 10px;
+    border: 1px solid #cccccc;
+    border-radius: 5px;
+  } */
+  .email
+  {
+    width: 90%;
+    padding: 10px;
+    border: 1px solid #cccccc;
+    border-radius: 5px;
+  }
+  .password
+  {
+    width: 90%;
+    padding: 10px;
+    border: 1px solid #cccccc;
+    border-radius: 5px;
+  }
+  
+  button[type='submit'] {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    background-color: #174d63;
+    border: none;
+    color: #ffffff;
+    font-size: 16px;
+    text-align: center;
+    cursor: pointer;
+    border-radius: 10px;
+  }
+  
+  button[type='submit']:hover {
+    background-color: #0c4552;
+  }
+  
+  .error {
+    color: #ff0000;
+    font-size: 12px;
+    margin-top: 5px;
+    text-align: center;
+  }
+  .gg
+  {
+    background-image: url('https://res.cloudinary.com/dunzdwo0h/image/upload/v1689170644/Office_communication_e8dvqz.gif');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 1000px;
+    padding-top: 20%; 
+  }
+  
